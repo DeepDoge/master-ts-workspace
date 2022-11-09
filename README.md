@@ -1,0 +1,1 @@
+This is a development workspace for https://github.com/DeepDoge/master-ts
