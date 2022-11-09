@@ -14,7 +14,3 @@ cd ../master-ts-vite-template
 npm link master-ts
 
 npm i tsx -g
-tsx ../scripts
-
-cd ../master-ts
-bash
