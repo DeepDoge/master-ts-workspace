@@ -1,3 +1,3 @@
-tsx ./scripts
+tsx ./start.ts
 cd ./template
 bash
