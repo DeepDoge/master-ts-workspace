@@ -16,15 +16,7 @@
 				"bierner.folder-source-actions",
 				"jbockle.jbockle-format-files",
 				"Gruntfuggly.todo-tree"
-			],
-			"settings": {
-				"typescript.format.semicolons": "remove",
-				"javascript.format.semicolons": "remove",
-				"javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
-				"javascript.format.placeOpenBraceOnNewLineForFunctions": true,
-				"typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
-				"typescript.format.placeOpenBraceOnNewLineForFunctions": true
-			}
+			]
 		}
 	}
 	// Configure tool-specific properties.
