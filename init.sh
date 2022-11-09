@@ -1,16 +1,16 @@
-if [ ! -d master-ts ]; then
-  git clone https://github.com/DeepDoge/master-ts.git
+if [ ! -d library ]; then
+  git clone https://github.com/DeepDoge/master-ts.git library
 fi
 
-if [ ! -d master-ts-vite-template ]; then
-  git clone https://github.com/DeepDoge/master-ts-vite-template.git
+if [ ! -d template ]; then
+  git clone https://github.com/DeepDoge/master-ts-vite-template.git template
 fi
 
-cd ./master-ts
+cd ./library
 npm i
 npm link
 
-cd ../master-ts-vite-template
+cd ../template
 npm link master-ts
 
 npm i tsx -g

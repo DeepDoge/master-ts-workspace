@@ -1,3 +1,3 @@
 tsx ./scripts
-cd ./master-ts-vite-template
+cd ./template
 bash
