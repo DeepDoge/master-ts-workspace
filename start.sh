@@ -1,3 +1,3 @@
 tsx ./start.ts
-cd ./template
+cd ./app
 bash
